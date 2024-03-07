@@ -1,0 +1,15 @@
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.sourcelink.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
