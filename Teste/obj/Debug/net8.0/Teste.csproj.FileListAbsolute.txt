@@ -1,0 +1,14 @@
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\bin\Debug\net8.0\Teste.exe
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\bin\Debug\net8.0\Teste.deps.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\bin\Debug\net8.0\Teste.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\bin\Debug\net8.0\Teste.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\refint\Teste.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Teste\obj\Debug\net8.0\ref\Teste.dll
