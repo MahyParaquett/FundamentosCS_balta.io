@@ -1,0 +1,15 @@
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\bin\Debug\net8.0\DotnetLists.exe
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\bin\Debug\net8.0\DotnetLists.deps.json
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\bin\Debug\net8.0\DotnetLists.runtimeconfig.json
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\bin\Debug\net8.0\DotnetLists.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\bin\Debug\net8.0\DotnetLists.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfoInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfo.cs
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.csproj.CoreCompileInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.sourcelink.json
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\refint\DotnetLists.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\DotnetLists.genruntimeconfig.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\DotnetLists\obj\Debug\net8.0\ref\DotnetLists.dll
