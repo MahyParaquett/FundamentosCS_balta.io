@@ -1,0 +1,15 @@
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\bin\Debug\net8.0\Numbers.exe
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\bin\Debug\net8.0\Numbers.deps.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\bin\Debug\net8.0\Numbers.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\bin\Debug\net8.0\Numbers.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.pdb
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+D:\treinamento-T2M\Fundamentos do C#\dev\Numbers\obj\Debug\net8.0\ref\Numbers.dll
